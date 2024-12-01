@@ -1,2 +1,3 @@
-# memory-card
-Project for https://www.theodinproject.com/lessons/node-path-react-new-memory-card
+# vite-template
+
+A Vite template
